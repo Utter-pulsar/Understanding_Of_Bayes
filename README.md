@@ -25,8 +25,6 @@
 
 - ```./Materials/INT304-Assessment 2-Report.pdf```是本次作业的针对作业要求作答的报告。
 
-- ```./Materials/Related_Papers/```里面有这次作业值得参考的论文文献资料。
-
 ## 项目目录
 
 - [INT304_Assignment_2]()
@@ -37,9 +35,6 @@
       - [G1]()
       - [G2]()
       - [Q1]()
-    - [Related_Papers]()
-      - [Discriminative_learning_quadratic_discriminant_function_for_handwriting_recognition.pdf]()
-      - [Modified_Quadratic_Discriminant_Functions_and_the_Application_to_Chinese_Character_Recognition.pdf]()
     - [INT304-Assessment 2-Assignment.pdf]()
     - [INT304-Assessment 2-Report.pdf]()
   - [Question1.py]()
